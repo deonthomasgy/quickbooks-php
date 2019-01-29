@@ -512,6 +512,9 @@ define('QUICKBOOKS_IMPORT_INVENTORYADJUSTMENT', 'InventoryAdjustmentImport');
  * 
  * @var string
  */
+
+define('QUICKBOOKS_EXPORT_ITEMS_TO_ORION', 'ExportItemsToOrion');
+
 define('QUICKBOOKS_OBJECT_JOB', 'Job');
 define('QUICKBOOKS_ADD_JOB', 'JobAdd');
 define('QUICKBOOKS_MOD_JOB', 'JobMod');
